@@ -10,3 +10,7 @@ plot(x,y)
 ####Made a new plot
 
 plot(y,x)
+
+#Working on linear models
+
+summary(lm(y~x))
