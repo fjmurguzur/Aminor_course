@@ -11,6 +11,9 @@ plot(x,y)
 
 plot(y,x)
 
+
 #Working on linear models
 
 summary(lm(y~x))
+
+
