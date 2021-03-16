@@ -1,0 +1,1 @@
+# Aminor_course
