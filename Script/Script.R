@@ -1,18 +1,16 @@
-###We start the script
+#############################################################
+##########   MAIN SCRIPT  ###################################
+
+#This script has an error in the length of x and y, so when we make a plot we get an error
 
 
-x=rnorm(50)
+x=rnorm(500)
 y=rnorm(50)
 
 plot(x,y)
 
 
-####Made a new plot
-
-plot(y,x)
-
-
-#Working on linear models
+#Linear model
 
 summary(lm(y~x))
 
