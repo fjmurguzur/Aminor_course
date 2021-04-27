@@ -2,7 +2,7 @@
 ##########   MAIN SCRIPT  ###################################
 
 #This script has an error in the length of x and y, so when we make a plot we get an error
-
+source("Script/function.R")
 
 x=rnorm(50)
 y=rnorm(50)
